@@ -145,3 +145,16 @@ dt {
   text-decoration: none;
   text-shadow: none;
 }
+
+.week {
+  background-color: #daf4ae;\
+  padding-top: 1em;
+}
+
+.week h3 {
+  text-align: left;
+}
+
+footer {
+  background-color: #dab3f4; 
+}
