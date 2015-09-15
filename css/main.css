@@ -118,4 +118,30 @@ dt {
   margin-right: auto;
   text-align: center;
   border-radius: 10px;
+  text-decoration: none;
+  color: #8f00d4;
+}
+
+.img {
+  text-align: center;
+  color: #fff;
+  clear: both;
+  background-image: url("../images/atlantis.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+  padding: 3em;
+  text-shadow: 0 2px 10px black;
+}
+
+.img h2 {
+  color: #fff;
+}
+
+.img a {
+  background-color: #9ef20a;
+  padding: 0.5em;
+  border-radius: 10px;
+  text-decoration: none;
+  text-shadow: none;
 }
