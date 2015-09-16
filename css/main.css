@@ -78,10 +78,38 @@ img {
 .banner h2{
   color: #fff;
 }
+.green a{
+  color: #fff;
+  width: 100%;
+  display: inline-block;
+  background-color: #8f00d4;
+  text-align: center;
+  padding: 1em;
+  border-radius: 10px;
+  text-decoration: none;
+}
 
-.green{
+.green a:hover{
+  background-color: #dab3f4;
+}
+
+.green {
   background-color: #daf4ae;
   padding: 1em;
+}
+
+.purple a{
+  width: 100%;
+  display: inline-block;
+  background-color: #9ef20a;
+  text-align: center;
+  padding: 1em;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.purple a:hover{
+  background-color: #daf4ae;
 }
 
 .purple{
@@ -98,7 +126,13 @@ h3 {
   text-align: center;
 }
 
-dt {
+.column {
+  padding: 1em;
+  width: 33.3%;
+  float: left;
+}
+
+.columm dt{
   font-weight: bold;
 }
 
