@@ -149,6 +149,7 @@ dt {
 .week {
   background-color: #daf4ae;\
   padding-top: 1em;
+  margin: 0;
 }
 
 .week h3 {
@@ -156,5 +157,29 @@ dt {
 }
 
 footer {
-  background-color: #dab3f4; 
+  background-color: #dab3f4;
+  margin: 0;
+}
+
+.off-page nav{
+  width: 100%;
+  padding: 1em;
+}
+
+footer a{
+  text-decoration: underline;
+  color: #9ef20a;
+  padding: 0.25em;
+  font-weight: bold;
+}
+
+.off-page a{
+  text-decoration: underline;
+  color: #9ef20a;
+}
+
+.off-page li{
+  list-style-type: none;
+  padding: 0.25em;
+  font-weight: bold;
 }
