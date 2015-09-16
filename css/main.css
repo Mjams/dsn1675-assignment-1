@@ -126,13 +126,7 @@ h3 {
   text-align: center;
 }
 
-.column {
-  padding: 1em;
-  width: 33.3%;
-  float: left;
-}
-
-.columm dt{
+dt{
   font-weight: bold;
 }
 
@@ -181,7 +175,7 @@ h3 {
 }
 
 .week {
-  background-color: #daf4ae;\
+  background-color: #daf4ae;
   padding-top: 1em;
   margin: 0;
 }
